@@ -13,4 +13,3 @@ Utilizando os recursos:
 - HTML Document: getElementByID, .innerHTML, .style.color;
 - JavaScript: Function, Condicional if, Loop For.
 
-Jogue [aqui](https://luisacpaim.github.io/jogo-da-velha/)!
